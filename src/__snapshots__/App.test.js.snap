@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div>
+    <div
+      className="card"
+    >
+      <p
+        className="card-text"
+        style={
+          Object {
+            "fontSize": "2.5em",
+          }
+        }
+      >
+        Justin-Whistle
+      </p>
+      <img
+        alt="big fish"
+        className="card-img"
+        src="JustinSpoonBill.jpg"
+      />
+      <p
+        className="card-text"
+        style={
+          Object {
+            "fontSize": "1em",
+          }
+        }
+      >
+        I have a passion for the outdoors and technology. Would love to be in a position to combine the two someday.
+      </p>
+    </div>
+  </div>
+</div>
+`;
